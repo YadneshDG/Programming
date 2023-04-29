@@ -1,0 +1,22 @@
+Multidimentional Array:-
+				It is also know as array of arrays in multi dimentional arryas 
+				address of another arrays are stored 
+				ex:- 2d array,3d array, 4d arrays.......... 
+
+1. Using array literal
+	
+	datatype[][] variable={{v1,v2,v3,...},{v1,v2,v3...}...};
+	
+2. Using new Keyword
+
+	datatype[][] variable =new datatype[outer Size][inner size]
+	
+
+	
+Jagged array :-
+
+
+
+
+Q.1 multiplication matrix
+Q.2 Tranpose matrix (column to row - row to column)

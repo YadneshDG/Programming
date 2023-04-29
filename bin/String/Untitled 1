@@ -1,0 +1,121 @@
+String :- String means group of charecters
+		  String is a class
+		  String is present inside java.lang
+		  String class is final class
+		  String class impliment 3 interfaces 
+		  	1.charSequene :- It will maintain Sequance 
+		  	2.Comparable :- (IMP) it will compaire Two or more Objects--> compaireTo();
+		  	3.Serializable
+
+String Manupulation :-
+	String
+	StringBuffer 
+	StringBuilder
+	
+	
+	String -->
+	
+	- String is Group or Sequanse of group of charecter together but in java String is a cllass\
+	whilch is present inside java.lang package
+	String class is final class which extends Objects class,
+	and impliments 3 interface
+	
+			1.charSequene :- It will maintain Sequance 
+		  	2.Comparable :- (IMP) it will compaire Two or more Objects--> compaireTo();
+		  	3.Serializable
+		  	
+	String Class is Imutable 
+	
+	ther are two ways to creat Strig objct
+	1.using string 
+	
+	
+	
+	
+	Q.Why we used String Litral:- we used string litral to save memory and make java
+	more memory afficiat becouse no new Object will be created
+	if it exsit already in the dtring constat pull	
+	
+	
+	
+	28 non static methods :- 
+	
+	1. charAt(int index):->
+			return type is char
+			This method is used to return character present at the given index
+			 
+	2. length():->
+			return type is int
+			this method used to return the total no of characters present in the strong
+			
+	3. equal(String str):->
+			return type is boolean
+			this method is used to compare the data present inside the object.
+			the method is case sensitive 
+			
+	4. equalsIgnoreCase(String str):->
+			return type is boolean 
+			this method is used to compare the data present inside the object.
+			the method is case insensitive 
+	
+	5. trim():->
+			return type is string
+			this method is to remove unwanted space from the start and end of the string
+	
+	6. toCharArray():->
+			return type is char[]
+			the method is to convert the string into charecter array 
+	
+	7. toUpperCase():->
+			return type is string
+			this method is used to convert lowercase string into uppercase string 
+	
+	8. toLower():->
+			return type is string
+			this method is used to convert Uppercase string into Lowercase string 
+			
+	9. split(string str):->
+			return type is string[]
+			this method is used to split the string based on the specified string
+				
+	10. replace(char old, char new):->
+			return type is string
+			this method is used to replace all the occurence of old string with the new string
+				
+	11. index(char ch):->
+			return type is int.
+			this method used to find the index of the specified charecter after the specified index
+	
+	12. lastIndexOf(char ch):->
+			return type is int
+			this method is used to return the index of the specified charecter 
+			from the end after the specified index of the string
+			
+	13. indexOf(int index, char ch):->
+			return type is int
+ 			this method used to return the index of the specified charecter after the specified index
+	
+	14. toString():->
+			return type is string
+			this method is used to return the string value present in the string object
+	
+	15. hashCoad():->
+			return type is int
+			this method is used to return the unique integer value based on the 
+			data present in string\
+	
+	16. toLowercase:->
+			return type is string
+			this method is used to convert Uppercase string into Lowercase string 
+	
+	17. startWith(String str):->
+			return type is boolean
+			this method is used to check if the String is starting with the specified string
+		
+	18. endWith(String str):->
+			return type is boolean
+			this method is used to check if the String is ending with the specified string
+	
+	19. contains(String str):->
+			return type is boolean
+			this method is used to check if the 
