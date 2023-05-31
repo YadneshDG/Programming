@@ -1,5 +1,11 @@
 package Pattern;
 //box pattern 
+//Box 
+//        *****
+//        *   *
+//        *   *
+//        *   *
+//        *****
 public class PatternEx2 {
 
 	public static void main(String[] args) {
