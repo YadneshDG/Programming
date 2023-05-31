@@ -1,4 +1,9 @@
 package Pattern;
+//        *****
+//        ****
+//        ***
+//        **
+//        *
 
 import java.util.Iterator;
 
